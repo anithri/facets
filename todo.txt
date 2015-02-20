@@ -1,0 +1,85 @@
+---
+compress_lines:
+- :lib
+- :test
+crypt:
+- :lib
+each_match:
+- :lib
+edit_distance:
+- :lib
+- :test
+ends_with:
+- :lib
+exclude:
+- :lib
+- :test
+expand_tab:
+- :lib
+file:
+- :lib
+- :test
+indexable:
+- :lib
+index_all:
+- :lib
+- :test
+linear:
+- :lib
+lowercase:
+- :lib
+- :test
+number:
+- :lib
+- :test
+op_div:
+- :lib
+- :test
+outdent:
+- :lib
+random:
+- :lib
+- :test
+range_all:
+- :lib
+range_of_line:
+- :lib
+remove:
+- :lib
+- :test
+roman:
+- :lib
+rotate:
+- :lib
+- :test
+similarity:
+- :lib
+- :test
+squish:
+- :lib
+- :test
+starts_with:
+- :lib
+store:
+- :lib
+- :test
+tabto:
+- :lib
+- :demo
+to_rx:
+- :lib
+trim:
+- :lib
+- :test
+unbracket:
+- :lib
+- :test
+underscore:
+- :lib
+- :test
+uppercase:
+- :lib
+- :test
+expand_tabs:
+- :test
+- :demo
